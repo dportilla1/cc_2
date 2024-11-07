@@ -1,0 +1,56 @@
+one op, oct 31, post man, csu wifi, Nutrien building, 4:00 am
+
+0 p
+worst 86 ms
+avg 7 ms
+
+10 p
+worse 146
+avg 15 ms
+
+100 p
+worse 985 ms
+avg 20 ms
+
+cosine
+300 p
+worse 670 ms
+
+cosine
+325 p
+worse 900 ms
+
+cosine
+350 p
+worse 1.5 s
+
+400 p
+worse 419 ms
+
+cosine 
+400 p
+worse 1.6 s
+
+500 p
+worse 2 s
+avg 800
+
+cosine 
+500 p 
+worse 2.1 s
+
+600 p
+worse 1.4 s
+avg 700
+
+1000 p
+2 s
+
+2000 p
+11
+
+3000 p
+31 s
+
+7000 p
+5 m
